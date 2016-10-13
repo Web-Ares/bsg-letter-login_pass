@@ -33,8 +33,8 @@ $message = '
                                 <tbody>
                                 <tr>
                                     <td width="214" align="center" style="width: 214px;">
-                                        <a href="#">
-                                            <img class="header-img1" style="display: block;" src="http://dev.websters.com.ua/bsg-letter-login/img/logo.png" width="161" height="42" alt="BSG" border="0"/>
+                                        <a target="_blank" href="#">
+                                            <img class="header-img1" style="display: block;" src="http://dev.websters.com.ua/bsg-letter-login/logo.png" width="161" height="42" alt="BSG" border="0"/>
                                         </a>
                                     </td>
                                     <td align="right"  style="font-family: Roboto, sans-serif; font-weight: 100; font-size: 16px; line-height: 26px; color: #fff">
@@ -73,14 +73,14 @@ $message = '
                                 <tr style="font-family: Roboto, sans-serif;">
                                     <td width="26" style="width: 26px"></td>
                                     <td width="33" align="left" style="width: 33px; background: #e4e4e9; text-align: left;">
-                                        <img src="http://dev.websters.com.ua/bsg-letter-login/img/border-top-left.jpg" width="25" height="25" alt="">
+                                        <img src="http://dev.websters.com.ua/bsg-letter-login/border-top-left.jpg" width="25" height="25" alt="">
                                     </td>
                                     <td bgcolor="#e4e4e9" height="25" style="background: #e4e4e9; height: 25px"></td>
                                     <td bgcolor="#e4e4e9" align="right" rowspan="4" valign="middle" width="50" style="text-align: right; background: #e4e4e9; width: 50px;">
-                                        <img src="http://dev.websters.com.ua/bsg-letter-login/img/lock.png" width="24" height="28" alt="">
+                                        <img src="http://dev.websters.com.ua/bsg-letter-login/lock.png" width="24" height="28" alt="">
                                     </td>
                                     <td width="33" align="right" style="width: 33px; background: #e4e4e9">
-                                        <img src="http://dev.websters.com.ua/bsg-letter-login/img/border-top-right.jpg" width="25" height="25" alt="">
+                                        <img src="http://dev.websters.com.ua/bsg-letter-login/border-top-right.jpg" width="25" height="25" alt="">
                                     </td>
                                     <td width="28" style="width: 28px"></td>
                                 </tr>
@@ -109,14 +109,14 @@ $message = '
                                 </tr>
                                 <tr style="font-family: Roboto, sans-serif;">
                                     <td valign="bottom" width="26" style="width: 26px">
-                                        <img style="display: block;" src="http://dev.websters.com.ua/bsg-letter-login/img/border-bottom-left1.jpg" width="26" height="28" alt="">
+                                        <img style="display: block;" src="http://dev.websters.com.ua/bsg-letter-login/border-bottom-left1.jpg" width="26" height="28" alt="">
                                     </td>
                                     <td width="33" valign="bottom" align="left" style="width: 33px; background: #e4e4e9; text-align: left;">
-                                        <img style="display: block;" src="http://dev.websters.com.ua/bsg-letter-login/img/border-bottom-left2.jpg" width="26" height="28" alt="">
+                                        <img style="display: block;" src="http://dev.websters.com.ua/bsg-letter-login/border-bottom-left2.jpg" width="26" height="28" alt="">
                                     </td>
                                     <td bgcolor="#e4e4e9" height="28" style="background: #e4e4e9; height: 25px"></td>
                                     <td valign="bottom" width="33" align="right" style="width: 33px; background: #e4e4e9">
-                                        <img style="display: block;" src="http://dev.websters.com.ua/bsg-letter-login/img/border-bottom-right.jpg" width="25" height="28" alt="">
+                                        <img style="display: block;" src="http://dev.websters.com.ua/bsg-letter-login/border-bottom-right.jpg" width="25" height="28" alt="">
                                     </td>
                                     <td width="28" style="width: 28px"></td>
                                 </tr>
@@ -137,7 +137,7 @@ $message = '
                                         <p style="text-align: left; margin: 0; padding: 0">To activate your account and log in, click on the following link:</p>
                                         <p style="text-align: left; margin: 0; padding: 0">(for security purposes, this link can be used only once)</p>
                                         <p style="text-align: left; margin: 0; padding: 0">
-                                            <a style="color: #0066fe; text-decoration: underline;" href="http://sms-service.f1lkom.com/auth/activate?reg_code=54f8bdde4d4bb">http://sms-service.f1lkom.com/auth/activate?reg_code=54f8bdde4d4bb</a>
+                                            <a target="_blank" style="color: #0066fe; text-decoration: underline;" href="http://sms-service.f1lkom.com/auth/activate?reg_code=54f8bdde4d4bb">http://sms-service.f1lkom.com/auth/activate?reg_code=54f8bdde4d4bb</a>
                                         </p>
                                     </td>
                                     <td width="60" style="width: 60px"></td>
